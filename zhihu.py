@@ -47,6 +47,7 @@ def login(email, password):
 
 
 if __name__ == '__main__':
+    # 你的知乎登陆账号与密码
     email = "************"
     password = "*********"
     login(email, password)
