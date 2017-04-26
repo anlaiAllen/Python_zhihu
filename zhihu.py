@@ -47,7 +47,7 @@ def login(email, password):
 
 
 if __name__ == '__main__':
-    email = "843004460@qq.com"
-    password = "anlaichun"
+    email = "************"
+    password = "*********"
     login(email, password)
 
